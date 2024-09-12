@@ -1,5 +1,5 @@
-# Anish-Dutta-Roy<h1 align="center">Hi 👋, I'm Anish Dutta Roy</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Anish Dutta Roy</h1>
+<h3 align="center">A passionate Devops Engineer from India As a Cloud Engineer with over two years of experience in the aviation industry, I thrive at the intersection of technology and operations, driving efficiency and innovation. At Lufthansa Technik, I contribute to optimizing complex systems, ensuring seamless deployments, and enhancing the reliability of critical applications. Passionate about continuous improvement, I leverage my analytical skills and hands-on experience to solve challenges, streamline processes, and support the dynamic needs of the aviation sector. Tech Stack : *Linux *GitHub *CI/CD *Terraform *Kubernetes *Ansible *Prometheus *Microsoft Azure Thanks for Visiting my Profile! Kindly Reach out Email: anishroy90@yahoo.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishdevops90&label=Profile%20views&color=0e75b6&style=flat" alt="anishdevops90" /> </p>
 
@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishdevops90&show_icons=true&locale=en&layout=compact" alt="anishdevops90" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishdevops90&show_icons=true&locale=en" alt="anishdevops90" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdevops90&" alt="anishdevops90" /></p>
